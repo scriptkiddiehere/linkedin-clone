@@ -20,9 +20,9 @@
 - GitHub
 
 <p align = "center">
-    <img src="https://drive.google.com/file/d/1U0IcENj84QrbrMAjJMtEHDHubZHe0QXt/view?usp=sharing" alt="project-image" >
+    <img src="src\img\Screenshot 2021-08-14 142922.jpg" alt="project-image" >
 </p>
 
 <p align = "center">
-    <img src="https://drive.google.com/file/d/1mp5EvjcEW0rUA-b3Hn089NGMsiDZTNeM/view?usp=sharing" alt="Login-Page">
+    <img src="src\img\Screenshot 2021-08-14 142750.jpg" alt="Login-Page">
 </p>
